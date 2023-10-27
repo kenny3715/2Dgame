@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - Player2
+  - Bullet2
+  - Bullet
   layers:
   - Default
   - TransparentFX
@@ -12,8 +14,8 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
+  - hpBG
+  - healthBar
   - 
   - 
   - 
@@ -42,3 +44,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: hpBackGround
+    uniqueID: 824919663
+    locked: 0
+  - name: healthBar
+    uniqueID: 1783721023
+    locked: 1
